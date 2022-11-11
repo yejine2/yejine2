@@ -1,11 +1,10 @@
 # Hi, I'm Yejin 👋
 
-<p>
+<div>
   <b>I'm Front-end developer</b><br/>
   I want to be a developer that everyone wants to work with. <br/>
-
-</p>
-
+  If you have any questions, feel free to <a href="mailto:yejine2@naver.com" target="_blank">contact</a> me! <br/>
+</div>
 
 ## Tech Stack
 <p>
