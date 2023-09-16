@@ -19,6 +19,4 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 </p>
 
-[![yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejine2&hide=contribs&count_private=true&show_icons=true&theme=default&include_all_commits=true)](https://github.com/yejine2/github-readme-stats)
-  
-
+<img src="https://github-readme-stats.vercel.app/api?username=yejine2&show_icons=true">
