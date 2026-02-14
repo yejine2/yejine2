@@ -6,7 +6,7 @@ I enjoy building products with React, Next.js, TypeScript, and Tailwind CSS.<br/
 I'm especially interested in scalable architecture and developer experience.<br/>
 <br/>
 If you're interested in working together or just want to say hi,<br/>  
-you can reach me at <a href="mailto:yj960103.yy@gmail.com" target="_blank">yj960103.yy@gmail.com</a> 📬
+you can reach me at <a href="mailto:nyangnyez@gmail.com" target="_blank">nyangnyez@gmail.com</a> 📬
 </div>
 
 ## Tech Stack
